@@ -3,6 +3,8 @@
 This repo is used to create a quick and easy way to deploy and update SWGOH Comlink using GitHub.
 
 Visit the main [SWGOH Comlink repo](https://github.com/swgoh-utils/swgoh-comlink) to learn more about what SWGOH Comlink is and how to use it.
+<!-- [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/heroku/node-js-getting-started) -->
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/Kyp-D/kyps-komlink&template=https://github.com/Kyp-D/kyps-komlink)
 
 ### Free Hosting limitations
 
