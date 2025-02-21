@@ -3,5 +3,5 @@
   "description": "SWGOH api to access game data.",
   "repository": "https://github.com/Kyp-D/kyps-komlink/",
   "keywords": ["docker"],
-  "stack": "container"
+  "stack": "docker"
 }
